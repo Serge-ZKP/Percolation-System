@@ -1,0 +1,10 @@
+[package]
+name = "Lattice-3D"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"  # or the latest version available
+#[dependencies]
+vtkio = "0.6.0"
+
